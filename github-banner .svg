@@ -180,18 +180,24 @@
 
   <!-- Tech badges -->
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="5.76s" fill="freeze"/>
-    <rect x="85" y="305" width="100" height="28" rx="14" fill="none" stroke="#61dafb" stroke-width="1" opacity="0.5"/>
-    <text x="135" y="324" font-family="monospace" font-size="11" fill="#61dafb" text-anchor="middle" opacity="0.8">React</text>
-    <rect x="200" y="305" width="100" height="28" rx="14" fill="none" stroke="#3178c6" stroke-width="1" opacity="0.5"/>
-    <text x="250" y="324" font-family="monospace" font-size="11" fill="#3178c6" text-anchor="middle" opacity="0.8">Tailwind</text>
-    <rect x="315" y="305" width="100" height="28" rx="14" fill="none" stroke="#06b6d4" stroke-width="1" opacity="0.5"/>
-    <text x="365" y="324" font-family="monospace" font-size="11" fill="#06b6d4" text-anchor="middle" opacity="0.8">MongoDB</text>
-    <rect x="430" y="305" width="100" height="28" rx="14" fill="none" stroke="#68a063" stroke-width="1" opacity="0.5"/>
-    <text x="480" y="324" font-family="monospace" font-size="11" fill="#68a063" text-anchor="middle" opacity="0.8">Node.js</text>
-    <rect x="545" y="305" width="100" height="28" rx="14" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.35"/>
-    <text x="595" y="324" font-family="monospace" font-size="11" fill="#ffffff" text-anchor="middle" opacity="0.7">Next.js</text>
-  </g>
+  <animate attributeName="opacity" values="0;1" dur="0.8s" begin="5.76s" fill="freeze"/>
+
+  <rect x="85" y="305" width="100" height="28" rx="14" fill="none" stroke="#61dafb" stroke-width="1" opacity="0.5"/>
+  <text x="135" y="324" font-family="monospace" font-size="11" fill="#61dafb" text-anchor="middle" opacity="0.8">React</text>
+
+  <rect x="200" y="305" width="100" height="28" rx="14" fill="none" stroke="#38bdf8" stroke-width="1" opacity="0.5"/>
+  <text x="250" y="324" font-family="monospace" font-size="11" fill="#38bdf8" text-anchor="middle" opacity="0.8">Tailwind</text>
+
+  <rect x="315" y="305" width="100" height="28" rx="14" fill="none" stroke="#10b981" stroke-width="1" opacity="0.5"/>
+  <text x="365" y="324" font-family="monospace" font-size="11" fill="#10b981" text-anchor="middle" opacity="0.8">MongoDB</text>
+
+  <rect x="430" y="305" width="100" height="28" rx="14" fill="none" stroke="#68a063" stroke-width="1" opacity="0.5"/>
+  <text x="480" y="324" font-family="monospace" font-size="11" fill="#68a063" text-anchor="middle" opacity="0.8">Node.js</text>
+
+  <rect x="545" y="305" width="100" height="28" rx="14" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.35"/>
+  <text x="595" y="324" font-family="monospace" font-size="11" fill="#ffffff" text-anchor="middle" opacity="0.7">Next.js</text>
+
+</g>
 
   <!-- Right side - Profile with neon rings -->
   <circle cx="1220" cy="250" r="182" fill="none" stroke="url(#ringGrad)" stroke-width="3" opacity="0.6" filter="url(#glowStrong)">
