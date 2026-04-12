@@ -130,29 +130,26 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/ZcnpXLn9Z4Vf6/giphy.gif" width="30"> 📈 Statistics Summary
-</h3>
+<h3 align="center">📈 Statistics Summary</h3>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niczzxo&theme=transparent" height="185em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="185em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="185em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="185em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
+
+### 📊 Language & Commit Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&theme=radical&hide_border=true" height="180" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+</div>
+
+---
+
 <br/>
 
 <div align="center">
