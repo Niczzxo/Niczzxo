@@ -44,11 +44,20 @@ With a solid foundation in the **MERN ecosystem**, I am currently pushing my bou
 
 ## 🛠️ Skills & Technologies
 
-| Category | Icons |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,firebase,postgres,prisma" /> |
-| **Tools & Others** | <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ai,vscode,netlify,vercel,pnpm,docker,gcp" /> |
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,go,firebase,postgres,prisma" />
+</p>
+
+### 🧰 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ai,ps,vscode,netlify,vercel,pnpm,docker,gcp" />
+</p>
 
 ---
 
@@ -60,9 +69,6 @@ With a solid foundation in the **MERN ecosystem**, I am currently pushing my bou
   </a> &nbsp;
   <a href="https://facebook.com/Royazul.Islam.Rasfas/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a> &nbsp;
-  <a href="https://x.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a> &nbsp;
   <a href="https://discord.com/users/Niczzxo" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
