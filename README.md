@@ -10,10 +10,6 @@
   </a>
 </div>
 
-<br/>
-
-## 👀 **PROFILE VIEWS**
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Niczzxo&label=PROFILE%20VIEWS&color=00F7F7&style=for-the-badge" alt="Views" />
 </div>
