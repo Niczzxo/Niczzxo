@@ -99,7 +99,5 @@
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Niczzxo&icon=0&color=0" alt="Visit Count" />
-  </a>
+  <img src="https://profile-counter.glitch.me/Niczzxo/count.svg" alt="Visitor Count" />
 </p>
