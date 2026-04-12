@@ -1,7 +1,192 @@
+<!-- ==================== HEADER ==================== -->
 
+<img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/1b03ed7e47bf889d74e88e779b2eab43931d3ab1/banner.svg" width="100%" />
+
+---
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Niczzxi;Full+Stack+Developer;Tech+Enthusiast;Photographer;Open+Source+Contributor" alt="Typing SVG" />
+
+  # Hi 👋, I'm Riyazul Islam
+### 🎓 Diploma in Computer Science Student | MERN Stack Developer | Tech Enthusiast
 </div>
+---
+
+### 🧐 About Me
+
+I am **Riyazul Islam**, a dedicated Computer Science Diploma student. My passion for technology drives me to build impactful web applications. I specialize in the **MERN Stack** and love creating seamless user experiences.
+
+* 🔭 **Current Focus:** Building Full Stack Web Development Projects.
+* 🌱 **Learning Path:** Mastering Advanced React, Next.js, and TypeScript.
+* 💬 **Ask Me About:** HTML, CSS, JavaScript, and React.
+* 📫 **Reach Me At:** [riyazulislam.773@gmail.com](mailto:riyazulislam.773@gmail.com)
+* ⚡ **Fun Fact:** I'm equally passionate about solving complex coding problems and exploring emerging technologies.
+-----
+
+## 🛠️ Tech Stack & Tools
+<div align="center">
+
+| **Category** | **Technologies & Tools** |
+|--------------|---------------------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B) ![C](https://img.shields.io/badge/-C-283593?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-0C1A1A?style=for-the-badge&logo=node.js&logoColor=3C873A) ![Express.js](https://img.shields.io/badge/-Express.js-1A1A1A?style=for-the-badge&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) |
+| **Platforms / Hosting** | ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=firebase&logoColor=FFCA28) ![Netlify](https://img.shields.io/badge/-Netlify-0E1E25?style=for-the-badge&logo=netlify&logoColor=00C7B7) |
+| **Version Control** | ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white) |
+| **Editor** | ![VS Code](https://img.shields.io/badge/-VS_Code-1E1E1E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) |
+| **Design** | ![Photoshop](https://img.shields.io/badge/-Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF) ![Figma](https://img.shields.io/badge/-Figma-181717?style=for-the-badge&logo=figma&logoColor=F24E1E) |
+
+</div>
+
+### 🔨 Languages and Tools
+
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" height="45" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="Typescript" height="45" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg">
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" height="45" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img alt="Node.js" height="45" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="45"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height="45"/>
+  </a>
+</p>
+
+
+<h2>📊 GitHub Analytics — Niczzxo</h2>
+
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark"
+    alt="GitHub Streak"
+  />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3><img src="https://media.giphy.com/media/ZcnpXLn9Z4Vf6/giphy.gif" width="32"> Statistics Summary</h3>
+
+<div align="center">
+  <a href="https://github.com/Niczzxo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
+  </a>
+</div>
+
+## 📊 GitHub Analytics — Niczzxo
+
+<div align="center">
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&theme=radical&hide_border=false" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&theme=radical&hide_border=false" height="165" alt="Top Languages" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=radical&hide_border=false" alt="GitHub Streak" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  </p>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niczzxo&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+<br>
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Niczzxo&theme=radical&no-frame=false&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Niczzxo&icon=3&color=12" alt="Visit Count" />
+</p>
+
+<!-- =============================== -->
+<!-- 🗂️ Summary Cards & Productive Hours -->
+<!-- =============================== -->
+
+## 💳 Profile Summary & Productive Time
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obaidullah-miazi-dev&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obaidullah-miazi-dev&theme=2077" />
+</p>
+
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=obaidullah-miazi-dev&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+
+
+<h2 align="left">⚡ Activity Graph:</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=lucent" alt="Activity Graph for Niczzxo" />
+</p>
+<!-- =============================== -->
+<!-- 🧠 Inspirational Quote Widget -->
+<!-- =============================== -->
+
+## 🧠 Quote to Live By
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Niczzxo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🐍 Watch My Contributions Come Alive!
+
+> See how my GitHub contributions slither into action!
+
+<img src="https://raw.githubusercontent.com/obaidullah-miazi-dev/obaidullah-miazi-dev/output/snake.svg" alt="Snake animation" />
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 
 ## 🌐 Socials:
 
@@ -28,56 +213,10 @@
 </p>
 <br/>
 
-# 💻 Tech Stack:
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Skillset
+
+
+---
 
 <div align="center">
-
-### 🎨 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,materialui,figma,framer&theme=dark" />
-
-### ⚙️ **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
-
-### 📱 **Programming Languages**
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
-
-### 🛠️ **Tools & Technologies**
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,vercel,netlify,canva,protoio&theme=dark" />
-
-</div>
-
-<h2>📊 GitHub Analytics — Niczzxo</h2>
-
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark"
-    alt="GitHub Streak"
-  />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img src="https://media.giphy.com/media/ZcnpXLn9Z4Vf6/giphy.gif" width="32"> Statistics Summary</h3>
-
-<div align="center">
-  <a href="https://github.com/Niczzxo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
-  </a>
-</div>
-
-<h2 align="left">⚡ Activity Graph:</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=lucent" alt="Activity Graph for Niczzxo" />
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niczzxo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<div align="center">
-  <h3>🐍 Snake Game Contribution Map</h3>
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <b>💻 Made By Riyazul Islam © All Rights Reserved 2026</b>
 </div>
