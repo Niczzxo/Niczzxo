@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 
-<img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/1b03ed7e47bf889d74e88e779b2eab43931d3ab1/banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/97019bff682d633f2e1c171db5f3ce73beae519c/banner.svg" width="100%" />
 
 ---
 <div align="center">
@@ -90,47 +90,8 @@ I am **Riyazul Islam**, a dedicated Computer Science Diploma student. My passion
   </a>
 </div>
 
-## 📊 GitHub Analytics — Niczzxo
-
-<div align="center">
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&theme=radical&hide_border=false" height="165" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&theme=radical&hide_border=false" height="165" alt="Top Languages" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=radical&hide_border=false" alt="GitHub Streak" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-  </p>
-
-</div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niczzxo&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-<br>
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niczzxo&theme=radical&no-frame=false&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Niczzxo&icon=3&color=12" alt="Visit Count" />
-</p>
 
 
 <!-- =============================== -->
