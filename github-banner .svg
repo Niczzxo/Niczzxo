@@ -155,58 +155,15 @@
     $ <tspan fill="#8888aa">whoami</tspan>
   </text>
 
-  <!-- Name with typing animation (clean & ordered) -->
-<text x="85" y="235"
-  font-family="'Fira Code','JetBrains Mono','Cascadia Code',monospace"
-  font-size="28"
-  fill="#e0e7ff"
-  filter="url(#textGlow)">
+  <!-- Name with typing animation -->
+  <text x="85" y="235" font-family="'Fira Code','JetBrains Mono','Cascadia Code',monospace" font-size="28" fill="#e0e7ff" filter="url(#textGlow)"><tspan visibility="hidden">R<set attributeName="visibility" to="visible" begin="0.600s" fill="freeze"/></tspan><tspan visibility="hidden">I<set attributeName="visibility" to="visible" begin="0.680s" fill="freeze"/></tspan><tspan visibility="hidden">Y<set attributeName="visibility" to="visible" begin="0.760s" fill="freeze"/></tspan><tspan visibility="hidden">A<set attributeName="visibility" to="visible" begin="0.840s" fill="freeze"/></tspan><tspan visibility="hidden">Z<set attributeName="visibility" to="visible" begin="0.920s" fill="freeze"/></tspan><tspan visibility="hidden">U<set attributeName="visibility" to="visible" begin="1.000s" fill="freeze"/></tspan><tspan visibility="hidden">L<set attributeName="visibility" to="visible" begin="0.680s" fill="freeze"/></tspan><tspan visibility="hidden">&#160;<set attributeName="visibility" to="visible"  begin="1.160s" fill="freeze"/></tspan><tspan visibility="hidden">I<set attributeName="visibility" to="visible" begin="1.240s" fill="freeze"/></tspan><tspan visibility="hidden">S<set attributeName="visibility" to="visible" begin="1.320s" fill="freeze"/></tspan><tspan visibility="hidden">L<set attributeName="visibility" to="visible" begin="1.400s" fill="freeze"/></tspan><tspan visibility="hidden">A<set attributeName="visibility" to="visible" begin="1.480s" fill="freeze"/></tspan><tspan visibility="hidden">M<set attributeName="visibility" to="visible" begin="2.040s" fill="freeze"/></tspan></text>
+  <!-- Name cursor: moves from start to end of name text -->
+  <rect x="85" y="210" width="3" height="32" fill="#06b6d4" opacity="0">
+    <animate attributeName="x" values="101.8;118.6;135.4;152.2;169.0;185.8;202.6;219.4;236.2;253.0;269.8;286.6;303.4;320.2;337.0;353.8;370.6;387.4;404.2;404.2" keyTimes="0.0000;0.0526;0.1053;0.1579;0.2105;0.2632;0.3158;0.3684;0.4211;0.4737;0.5263;0.5789;0.6316;0.6842;0.7368;0.7895;0.8421;0.8947;0.9474;1.0000" dur="1.520s" begin="0.6s" fill="freeze" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1;0;1;0" dur="1.5s" begin="2.6s" fill="freeze"/>
+  </rect>
 
-  <tspan visibility="hidden">R<set attributeName="visibility" to="visible" begin="0.60s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">I<set attributeName="visibility" to="visible" begin="0.68s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">Y<set attributeName="visibility" to="visible" begin="0.76s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">A<set attributeName="visibility" to="visible" begin="0.84s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">Z<set attributeName="visibility" to="visible" begin="0.92s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">U<set attributeName="visibility" to="visible" begin="1.00s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">L<set attributeName="visibility" to="visible" begin="1.08s" fill="freeze"/></tspan>
-
-  <tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="1.16s" fill="freeze"/></tspan>
-
-  <tspan visibility="hidden">I<set attributeName="visibility" to="visible" begin="1.24s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">S<set attributeName="visibility" to="visible" begin="1.32s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">L<set attributeName="visibility" to="visible" begin="1.40s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">A<set attributeName="visibility" to="visible" begin="1.48s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">M<set attributeName="visibility" to="visible" begin="1.56s" fill="freeze"/></tspan>
-
-</text>
-
-<!-- Name cursor (perfect sync) -->
-<rect x="85" y="210" width="3" height="32" fill="#06b6d4" opacity="0">
-
-  <!-- Smooth movement -->
-  <animate attributeName="x"
-    from="85"
-    to="404"
-    dur="0.96s"
-    begin="0.60s"
-    fill="freeze"
-    calcMode="linear"/>
-
-  <!-- Show cursor -->
-  <animate attributeName="opacity"
-    values="0;1"
-    dur="0.01s"
-    begin="0.60s"
-    fill="freeze"/>
-
-  <!-- Blinking after typing -->
-  <animate attributeName="opacity"
-    values="1;0;1"
-    dur="1s"
-    begin="1.56s"
-    repeatCount="indefinite"/>
-
-</rect>
   <!-- Tagline prompt -->
   <text x="85" y="275" font-family="'Fira Code','JetBrains Mono',monospace" font-size="13" fill="#a5b4fc" opacity="0">
     <animate attributeName="opacity" values="0;1" dur="0.01s" begin="3s" fill="freeze"/>
