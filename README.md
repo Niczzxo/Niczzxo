@@ -4,8 +4,10 @@
 
 
 <!-- Animated Welcome -->
+<div align="center">
 <h1>Hey there. I'm Riyazul Islam 👋</h1>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MERN-Stack-Developer;+Full-Stack-Developer;Frontend-Developer;+JavaScript-Developer;+React-Developer;+Tech+Enthusiast;" />
+</div>
+---
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -20,7 +22,7 @@
 
 <br/>
 
-## 👨‍💻 Riyazul Islam — Aspiring MERN Stack Developer
+//*## 👨‍💻 Riyazul Islam — Aspiring MERN Stack Developer//*
 
 ### 🚀 About Me
 I am **Riyazul Islam**, a passionate **MERN Stack learner** and **Computer Science student** from Bangladesh 🇧🇩. I am dedicated to building modern, responsive, and user-centric web applications while exploring the depths of the JavaScript ecosystem.
