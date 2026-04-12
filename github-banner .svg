@@ -155,176 +155,51 @@
     $ <tspan fill="#8888aa">whoami</tspan>
   </text>
 
-  <!-- Name with typing animation (clean & ordered) -->
+<!-- NAME (NO GAP FINAL FIX) -->
 <text x="85" y="235"
   font-family="'Fira Code','JetBrains Mono','Cascadia Code',monospace"
   font-size="28"
   fill="#e0e7ff"
   filter="url(#textGlow)">
 
-  <tspan visibility="hidden">R<set attributeName="visibility" to="visible" begin="0.60s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">I<set attributeName="visibility" to="visible" begin="0.68s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">Y<set attributeName="visibility" to="visible" begin="0.76s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">A<set attributeName="visibility" to="visible" begin="0.84s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">Z<set attributeName="visibility" to="visible" begin="0.92s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">U<set attributeName="visibility" to="visible" begin="1.00s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">L<set attributeName="visibility" to="visible" begin="1.08s" fill="freeze"/></tspan>
-
-  <tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="1.16s" fill="freeze"/></tspan>
-
-  <tspan visibility="hidden">I<set attributeName="visibility" to="visible" begin="1.24s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">S<set attributeName="visibility" to="visible" begin="1.32s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">L<set attributeName="visibility" to="visible" begin="1.40s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">A<set attributeName="visibility" to="visible" begin="1.48s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">M<set attributeName="visibility" to="visible" begin="1.56s" fill="freeze"/></tspan>
+  <tspan visibility="hidden">
+    RIYAZUL ISLAM
+    <set attributeName="visibility" to="visible" begin="0.6s" fill="freeze"/>
+  </tspan>
 
 </text>
 
-<!-- Name cursor (perfect sync) -->
-<rect x="85" y="210" width="3" height="32" fill="#06b6d4" opacity="0">
-
-  <!-- Smooth movement -->
-  <animate attributeName="x"
-    from="85"
-    to="404"
-    dur="0.96s"
-    begin="0.60s"
-    fill="freeze"
-    calcMode="linear"/>
-
-  <!-- Show cursor -->
-  <animate attributeName="opacity"
-    values="0;1"
-    dur="0.01s"
-    begin="0.60s"
-    fill="freeze"/>
-
-  <!-- Blinking after typing -->
-  <animate attributeName="opacity"
-    values="1;0;1"
-    dur="1s"
-    begin="1.56s"
-    repeatCount="indefinite"/>
-
+<!-- NAME CURSOR -->
+<rect x="85" y="210" width="3" height="32" fill="#06b6d4">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
 </rect>
-  <!-- Tagline prompt -->
+
+<!-- TAGLINE PROMPT -->
 <text x="85" y="275"
   font-family="'Fira Code','JetBrains Mono',monospace"
   font-size="13"
-  fill="#a5b4fc"
-  opacity="0">
-  <animate attributeName="opacity"
-    values="0;1"
-    dur="0.01s"
-    begin="2.6s"
-    fill="freeze"/>
+  fill="#a5b4fc">
+
   &gt;
+
 </text>
 
-<!-- Tagline typing (clean ordered timing) -->
+<!-- TAGLINE (NO GAP FINAL FIX) -->
 <text x="100" y="275"
   font-family="'Fira Code','JetBrains Mono',monospace"
   font-size="13"
   fill="#c4b5fd">
 
-  <!-- MERN STACK -->
-  <tspan visibility="hidden">M<set attributeName="visibility" to="visible" begin="2.62s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="2.66s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">R<set attributeName="visibility" to="visible" begin="2.70s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">N<set attributeName="visibility" to="visible" begin="2.74s" fill="freeze"/></tspan>
-  <tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="2.78s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">S<set attributeName="visibility" to="visible" begin="2.82s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">T<set attributeName="visibility" to="visible" begin="2.86s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">A<set attributeName="visibility" to="visible" begin="2.90s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">C<set attributeName="visibility" to="visible" begin="2.94s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">K<set attributeName="visibility" to="visible" begin="2.98s" fill="freeze"/></tspan>
-
-  <tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="3.02s" fill="freeze"/></tspan>
-
-  <!-- DEVELOPER -->
-  <tspan visibility="hidden">D<set attributeName="visibility" to="visible" begin="3.06s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="3.10s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">V<set attributeName="visibility" to="visible" begin="3.14s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="3.18s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">L<set attributeName="visibility" to="visible" begin="3.22s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">O<set attributeName="visibility" to="visible" begin="3.26s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">P<set attributeName="visibility" to="visible" begin="3.30s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="3.34s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">R<set attributeName="visibility" to="visible" begin="3.38s" fill="freeze"/></tspan>
-
-  <tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="3.42s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">|<set attributeName="visibility" to="visible" begin="3.46s" fill="freeze"/></tspan>
-  <tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="3.50s" fill="freeze"/></tspan>
-
-  <!-- FRONTEND -->
-  <tspan visibility="hidden">F<set attributeName="visibility" to="visible" begin="3.54s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">R<set attributeName="visibility" to="visible" begin="3.58s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">O<set attributeName="visibility" to="visible" begin="3.62s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">N<set attributeName="visibility" to="visible" begin="3.66s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">T<set attributeName="visibility" to="visible" begin="3.70s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="3.74s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">N<set attributeName="visibility" to="visible" begin="3.78s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">D<set attributeName="visibility" to="visible" begin="3.82s" fill="freeze"/></tspan>
-
-  <tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="3.86s" fill="freeze"/></tspan>
-
-  <!-- DEVELOPER -->
-  <tspan visibility="hidden">D<set attributeName="visibility" to="visible" begin="3.90s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="3.94s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">V<set attributeName="visibility" to="visible" begin="3.98s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="4.02s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">L<set attributeName="visibility" to="visible" begin="4.06s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">O<set attributeName="visibility" to="visible" begin="4.10s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">P<set attributeName="visibility" to="visible" begin="4.14s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="4.18s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">R<set attributeName="visibility" to="visible" begin="4.22s" fill="freeze"/></tspan>
-
-  <tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="4.26s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">|<set attributeName="visibility" to="visible" begin="4.30s" fill="freeze"/></tspan>
-  <tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="4.34s" fill="freeze"/></tspan>
-
-  <!-- REACT DEVELOPER -->
-  <tspan visibility="hidden">R<set attributeName="visibility" to="visible" begin="4.38s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="4.42s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">A<set attributeName="visibility" to="visible" begin="4.46s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">C<set attributeName="visibility" to="visible" begin="4.50s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">T<set attributeName="visibility" to="visible" begin="4.54s" fill="freeze"/></tspan>
-  <tspan visibility="hidden"> <set attributeName="visibility" to="visible" begin="4.58s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">D<set attributeName="visibility" to="visible" begin="4.62s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="4.66s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">V<set attributeName="visibility" to="visible" begin="4.70s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="4.74s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">L<set attributeName="visibility" to="visible" begin="4.78s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">O<set attributeName="visibility" to="visible" begin="4.82s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">P<set attributeName="visibility" to="visible" begin="4.86s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">E<set attributeName="visibility" to="visible" begin="4.90s" fill="freeze"/></tspan>
-  <tspan visibility="hidden">R<set attributeName="visibility" to="visible" begin="4.94s" fill="freeze"/></tspan>
+  <tspan visibility="hidden">
+    MERN STACK DEVELOPER | FRONTEND DEVELOPER | REACT DEVELOPER
+    <set attributeName="visibility" to="visible" begin="2.6s" fill="freeze"/>
+  </tspan>
 
 </text>
 
-<!-- Tagline cursor (perfect sync) -->
-<rect x="100" y="258" width="2" height="24" fill="#06b6d4" opacity="0">
-
-  <animate attributeName="x"
-    from="100"
-    to="585"
-    dur="2.32s"
-    begin="2.62s"
-    fill="freeze"
-    calcMode="linear"/>
-
-  <animate attributeName="opacity"
-    values="0;1"
-    dur="0.01s"
-    begin="2.62s"
-    fill="freeze"/>
-
-  <animate attributeName="opacity"
-    values="1;0;1"
-    dur="1s"
-    begin="4.94s"
-    repeatCount="indefinite"/>
-
+<!-- SIMPLE BLINKING CURSOR -->
+<rect x="585" y="258" width="2" height="24" fill="#06b6d4">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
 </rect>
 
   <!-- Tech badges -->
