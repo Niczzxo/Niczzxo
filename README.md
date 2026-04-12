@@ -143,9 +143,7 @@ I am **Riyazul Islam**, a dedicated Computer Science Diploma student. My passion
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obaidullah-miazi-dev&theme=2077" />
 </p>
 
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=obaidullah-miazi-dev&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
+
 
 <!-- ✨ Divider -->
 <h3 align="center">
