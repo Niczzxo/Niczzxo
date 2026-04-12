@@ -3,11 +3,6 @@
 </p>
 
 
-<!-- Animated Welcome -->
-<div align="center">
-<h1>Hey there. I'm Riyazul Islam 👋</h1>
-</div>
-
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -21,6 +16,8 @@
 </div>
 
 <br/>
+
+## 👨‍💻 Riyazul Islam — Aspiring MERN Stack Developer
 
 ### 🚀 About Me
 I am **Riyazul Islam**, a passionate **MERN Stack learner** and **Computer Science student** from Bangladesh 🇧🇩. I am dedicated to building modern, responsive, and user-centric web applications while exploring the depths of the JavaScript ecosystem.
