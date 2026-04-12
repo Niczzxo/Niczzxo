@@ -2,66 +2,132 @@
   <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/97019bff682d633f2e1c171db5f3ce73beae519c/banner.svg" width="100%" />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;CS+Diploma+Student;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="mailto:riyazulislam.773@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.com/users/Niczzxo"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
----
-
-### 🧐 About Me
-
-I am **Riyazul Islam**, a dedicated Computer Science student with a strong focus on building high-performance web applications. I specialize in the **MERN Stack** and enjoy transforming complex problems into simple, elegant code.
-
-- 🚀 **Currently Focus:** Mastering **Next.js 14** and **TypeScript** for enterprise-level apps.
-- 🎓 **Education:** Pursuing a Diploma in Computer Science.
-- 💡 **Core Skills:** Scalable UI/UX design, RESTful API development, and Database Management.
-- ⚡ **Philosophy:** "First, solve the problem. Then, write the code."
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-
----
-
-### 📊 GitHub Insights
+<br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&theme=radical&hide_border=true" /></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&theme=radical&hide_border=true" /></td>
-    </tr>
-  </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=radical&hide_border=true" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+RiyazulIslam;Frontend+%26+MERN+Stack+Developer;Next.js+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+  </a>
 </div>
+
+<br/>
+
+## 👀 **PROFILE VIEWS**
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Niczzxo&label=PROFILE%20VIEWS&color=00F7F7&style=for-the-badge" alt="Views" />
+</div>
+
+
+## 👨‍💻 Riyazul Islam — Frontend & MERN Stack Developer
+
+## 🚀 About Me
+
+I am **Riyazul Islam**, a tech-driven **MERN Stack Developer** and a **Computer Science Student** based in Bangladesh 🇧🇩. I thrive on the challenge of turning complex logic into high-performance, user-centric web applications.
+
+With a solid foundation in the **MERN ecosystem**, I am currently pushing my boundaries by mastering **Next.js 14** and **TypeScript** to build scalable, enterprise-grade solutions.
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niczzxo&theme=radical&no-frame=false&margin-w=4" />
+## 🔭 What I'm Up To
+
+- 🏗️ **Current Project:** Engineering a feature-rich **Tourism Website** using the MERN stack.
+- 🎓 **Education:** Pursuing a **Diploma in Computer Science & Technology**, focusing on software engineering principles.
+- 🎯 **Daily Grind:** Deep diving into **Next.js** App Router, Server Actions, and Clean Architecture.
+- ⚙️ **Focus:** Practicing Full-Stack development with a focus on **Performance Optimization** and **Scalable Database Design**.
+- 🧠 **Goal:** Writing clean, maintainable code following best practices like DRY and SOLID.
+
+---
+
+## 💡 Core Expertise
+
+- **Frontend:** Crafting responsive, pixel-perfect UIs with **React.js**, **Next.js**, and **Tailwind CSS**.
+- **Backend:** Developing secure and efficient RESTful APIs using **Node.js** and **Express**.
+- **Database:** Designing and managing scalable data models in **MongoDB** and **MySQL**.
+- **UI/UX:** Bridging the gap between design and code with **Figma** and modern CSS techniques.
+
+> **⚡ Philosophy:** "First, solve the problem. Then, write the code."
+
+---
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" />
 </p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,firebase,postgres,prisma" />
+</p>
+
+### 🧰 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ai,vscode,netlify,vercel,pnpm,docker,gcp" />
+</p>
+---
+## 🌐 Connect with Me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a> &nbsp;
+  <a href="https://x.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a> &nbsp;
+  <a href="https://discord.com/users/Niczzxo" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a> &nbsp;
+  <a href="mailto:riyazulislam.773@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+---
+<h2>📊 GitHub Analytics — Niczzxo</h2>
+
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark"
+    alt="GitHub Streak"
+  />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3><img src="https://media.giphy.com/media/ZcnpXLn9Z4Vf6/giphy.gif" width="32"> Statistics Summary</h3>
+
+<div align="center">
+  <a href="https://github.com/Niczzxo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" height="180em" alt="Activity Graph" />
+  </a>
+</div>
+---
+
+
 
 ---
 
 ### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=Niczzxo&color_snake=green&color_dots=#bfd6f6,#8dbdff,#64a1ff,#4b91ff,#217aff" alt="Snake" />
-</p>
+
+> See how my GitHub contributions slither into action!
+
+<img src="https://raw.githubusercontent.com/obaidullah-miazi-dev/obaidullah-miazi-dev/output/snake.svg" alt="Snake animation" />
+
+<!-- ✨ Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 
 ---
 
@@ -69,10 +135,6 @@ I am **Riyazul Islam**, a dedicated Computer Science student with a strong focus
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niczzxo&label=PROFILE%20VIEWS&color=00F7F7&style=for-the-badge" alt="Views" />
-</div>
 
 <br/>
 
