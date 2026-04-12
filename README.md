@@ -51,14 +51,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&theme=dark&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&theme=radical&rank_icon=github"
+    alt="Niczzxo's GitHub stats"
     height="180"
-    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&theme=dark&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&theme=radical"
+    alt="Niczzxo's Top Languages"
     height="180"
-    alt="Top Languages"
   />
 </p>
 
