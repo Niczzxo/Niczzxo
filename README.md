@@ -38,34 +38,6 @@ I am **Riyazul Islam**, a dedicated Computer Science Diploma student. My passion
 
 </div>
 
-### 🔨 Languages and Tools
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" height="45" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img alt="Typescript" height="45" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg">
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" height="45" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img alt="Node.js" height="45" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="45"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height="45"/>
-  </a>
-</p>
 
 
 <h2>📊 GitHub Analytics — Niczzxo</h2>
