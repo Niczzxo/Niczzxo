@@ -132,30 +132,7 @@ I am **Riyazul Islam**, a dedicated Computer Science Diploma student. My passion
   <img src="https://visitcount.itsvg.in/api?id=Niczzxo&icon=3&color=12" alt="Visit Count" />
 </p>
 
-<!-- =============================== -->
-<!-- 🗂️ Summary Cards & Productive Hours -->
-<!-- =============================== -->
 
-## 💳 Profile Summary & Productive Time
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obaidullah-miazi-dev&theme=tokyonight&utcOffset=8" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obaidullah-miazi-dev&theme=2077" />
-</p>
-
-
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-
-
-<h2 align="left">⚡ Activity Graph:</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=lucent" alt="Activity Graph for Niczzxo" />
-</p>
 <!-- =============================== -->
 <!-- 🧠 Inspirational Quote Widget -->
 <!-- =============================== -->
