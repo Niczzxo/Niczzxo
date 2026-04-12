@@ -2,6 +2,11 @@
   <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/97019bff682d633f2e1c171db5f3ce73beae519c/banner.svg" width="100%" />
 </p>
 
+
+<!-- Animated Welcome -->
+<h1>Hey there. I'm Riyazul Islam 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MERN-Stack-Developer;+Full-Stack-Developer;Frontend-Developer;+JavaScript-Developer;+React-Developer;+Tech+Enthusiast;" />
+
 <div align="center">
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MERN-Stack-Developer;+Full-Stack-Developer;Frontend-Developer;+JavaScript-Developer;+React-Developer;+Tech+Enthusiast;" alt="Typing SVG" />
