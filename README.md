@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/97019bff682d633f2e1c171db5f3ce73beae519c/banner.svg" width="100%" />
 </p>
 
-<br/>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+RiyazulIslam;Frontend+%26+MERN+Stack+Developer;Next.js+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
@@ -14,19 +12,18 @@
   <img src="https://komarev.com/ghpvc/?username=Niczzxo&label=PROFILE%20VIEWS&color=00F7F7&style=for-the-badge" alt="Views" />
 </div>
 
+<br/>
 
 ## 👨‍💻 Riyazul Islam — Frontend & MERN Stack Developer
 
-## 🚀 About Me
-
+### 🚀 About Me
 I am **Riyazul Islam**, a tech-driven **MERN Stack Developer** and a **Computer Science Student** based in Bangladesh 🇧🇩. I thrive on the challenge of turning complex logic into high-performance, user-centric web applications.
 
 With a solid foundation in the **MERN ecosystem**, I am currently pushing my boundaries by mastering **Next.js 14** and **TypeScript** to build scalable, enterprise-grade solutions.
 
 ---
 
-## 🔭 What I'm Up To
-
+### 🔭 What I'm Up To
 - 🏗️ **Current Project:** Engineering a feature-rich **Tourism Website** using the MERN stack.
 - 🎓 **Education:** Pursuing a **Diploma in Computer Science & Technology**, focusing on software engineering principles.
 - 🎯 **Daily Grind:** Deep diving into **Next.js** App Router, Server Actions, and Clean Architecture.
@@ -35,8 +32,7 @@ With a solid foundation in the **MERN ecosystem**, I am currently pushing my bou
 
 ---
 
-## 💡 Core Expertise
-
+### 💡 Core Expertise
 - **Frontend:** Crafting responsive, pixel-perfect UIs with **React.js**, **Next.js**, and **Tailwind CSS**.
 - **Backend:** Developing secure and efficient RESTful APIs using **Node.js** and **Express**.
 - **Database:** Designing and managing scalable data models in **MongoDB** and **MySQL**.
@@ -46,25 +42,16 @@ With a solid foundation in the **MERN ecosystem**, I am currently pushing my bou
 
 ---
 
----
-
 ## 🛠️ Skills & Technologies
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" />
-</p>
+| Category | Icons |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,firebase,postgres,prisma" /> |
+| **Tools & Others** | <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ai,vscode,netlify,vercel,pnpm,docker,gcp" /> |
 
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,firebase,postgres,prisma" />
-</p>
-
-### 🧰 Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ai,vscode,netlify,vercel,pnpm,docker,gcp" />
-</p>
 ---
+
 ## 🌐 Connect with Me:
 
 <p align="left">
@@ -84,46 +71,46 @@ With a solid foundation in the **MERN ecosystem**, I am currently pushing my bou
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
----
-<h2>📊 GitHub Analytics — Niczzxo</h2>
 
+---
+
+## 📊 GitHub Analytics — Niczzxo
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img src="https://media.giphy.com/media/ZcnpXLn9Z4Vf6/giphy.gif" width="32"> Statistics Summary</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<h3 align="center">📈 Statistics Summary</h3>
 
 <div align="center">
-  <a href="https://github.com/Niczzxo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" height="180em" alt="Activity Graph" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
 </div>
----
 
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+</div>
 
 ---
 
 ### 🐍 Contribution Activity
 
-> See how my GitHub contributions slither into action!
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=Niczzxo&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1ff,#4b91ff,#217aff" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/obaidullah-miazi-dev/obaidullah-miazi-dev/output/snake.svg" alt="Snake animation" />
-
-<!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
 
 ---
 
