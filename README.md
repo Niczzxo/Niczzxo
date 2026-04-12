@@ -7,7 +7,7 @@
 <div align="center">
 <h1>Hey there. I'm Riyazul Islam 👋</h1>
 </div>
----
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
