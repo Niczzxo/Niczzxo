@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Riyazul%20Islam&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/97019bff682d633f2e1c171db5f3ce73beae519c/banner.svg" width="100%" />
 </p>
 
 <div align="center">
