@@ -49,18 +49,6 @@
 
 <h2>📊 GitHub Analytics — Niczzxo</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&theme=radical&rank_icon=github"
-    alt="Niczzxo's GitHub stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&theme=radical"
-    alt="Niczzxo's Top Languages"
-    height="180"
-  />
-</p>
 
 <p align="center">
   <img
@@ -93,11 +81,3 @@
   <h3>🐍 Snake Game Contribution Map</h3>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Niczzxo/count.svg" alt="Visitor Count" />
-</p>
