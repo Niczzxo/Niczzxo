@@ -5,72 +5,103 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://msrsakibur.site">Niczzxi</a>!</h1>
 <h3 align="center">🚀 Tech Enthusiast | Content Creator | Developer from Bangladesh</h3>
+## 🌐 Socials:
 
-<p align="center">
-  <a href="https://msrsakibur.site" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.youtube.com/@msr.sakibur" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="MSRxSakibur"/>
-  </a>
-  <a href="https://facebook.com/sakibur.msr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/msr.sakibur" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://t.me/msr0official" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<p>
+  <a href="https://discord.com/users/Niczzxo" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Niczzxo" height="30" width="40" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://facebook.com/MDWasinAhmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MD Wasin Ahmed" height="30" width="40" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/MdWasinAhmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Wasin Ahmed" height="30" width="40" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/wasin52084" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@wasin52084" height="30" width="40" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:wasinahmed87@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="wasinahmed87@gmail.com" height="30" width="40" />
   </a>
 </p>
+<br/>
 
----
+# 💻 Tech Stack:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Skillset
 
-### ⚡ About Me
-
-- 🔭 I’m currently working on **Web Projects**
-- 🌱 I’m currently learning **Anything**
-- 💬 Ask me about **Android, Python, and Video Editing**
-- 📫 Reach me at: **work.msr01@gmail.com**
-
----
-
-### 🛠️ My Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+### 🎨 **Frontend Development**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,materialui,figma,framer&theme=dark" />
+
+### ⚙️ **Backend Development**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+
+### 📱 **Programming Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
+
+### 🛠️ **Tools & Technologies**
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,vercel,netlify,canva,protoio&theme=dark" />
+
 </div>
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msrofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-</div>
-
-
----
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/msrofficial/msrofficial/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
+<h2>📊 GitHub Analytics — Niczzxo</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msrofficial&label=Profile%20views&color=0e75b6&style=flat" alt="msrofficial" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&theme=dark&cache_seconds=86400"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&theme=dark&cache_seconds=86400"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark"
+    alt="GitHub Streak"
+  />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3><img src="https://media.giphy.com/media/ZcnpXLn9Z4Vf6/giphy.gif" width="32"> Statistics Summary</h3>
+
+<div align="center">
+  <a href="https://github.com/Niczzxo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
+  </a>
+</div>
+
+<h2 align="left">⚡ Activity Graph:</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=lucent" alt="Activity Graph for Niczzxo" />
+</p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Niczzxo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<div align="center">
+  <h3>🐍 Snake Game Contribution Map</h3>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Niczzxo&icon=0&color=0" alt="Visit Count" />
+  </a>
 </p>
