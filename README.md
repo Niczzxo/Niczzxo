@@ -41,26 +41,41 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 
 > **⚡ Philosophy:** "First, solve the problem. Then, write the code."
 
+---
 
-<br/>
+---
 
 🛠️ Skills & Technologies
-🎨 Frontend
+🎨 Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui" />
 </p>
+> UI Components: ShadCN/UI, DaisyUI
 
-⚙️ Backend & Database
+⚙️ Backend & Authentication
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,prisma" />
 </p>
+> Security: JWT, NextAuth.js
 
-🧰 Tools & Platforms
+🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
+> ODM: Mongoose
 
-<br/>
+🧰 Tools & Software
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+> Testing: Thunder Client
+
+🚀 Deployment & Hosting
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+</p>
+> Others: GitHub Pages
+---
 
 ## 🌐 Connect with Me:
 
@@ -79,7 +94,7 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   </a>
 </p>
 
-<br/>
+---
 
 ## 📊 GitHub Analytics — Niczzxo
 
