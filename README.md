@@ -12,19 +12,19 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Niczzxo" height="30" width="40" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://facebook.com/MDWasinAhmed" target="_blank">
+  <a href="https://facebook.com/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MD Wasin Ahmed" height="30" width="40" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/MdWasinAhmed" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Wasin Ahmed" height="30" width="40" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/wasin52084" target="_blank">
+  <a href="https://x.com/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@wasin52084" height="30" width="40" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:wasinahmed87@gmail.com" target="_blank">
+  <a href="mailto:riyazulislam.773@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="wasinahmed87@gmail.com" height="30" width="40" />
   </a>
 </p>
