@@ -55,10 +55,10 @@ With a solid foundation in the **MERN ecosystem**, I am currently pushing my bou
 ## 🌐 Connect with Me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/md-riyazul-islam-rafsan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> &nbsp;
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+  <a href="https://facebook.com/Royazul.Islam.Rasfas/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a> &nbsp;
   <a href="https://x.com/YOUR_TWITTER_USERNAME" target="_blank">
