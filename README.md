@@ -140,15 +140,7 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
 </div>
 
----
 
-### 📊 Language & Commit Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&theme=radical&hide_border=true" height="180" alt="Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
----
 
 <br/>
 
