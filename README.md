@@ -4,7 +4,8 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+RiyazulIslam;Frontend+%26+MERN+Stack+Developer;Next.js+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MERN-Stack-Developer;+Full-Stack-Developer;Frontend-Developer;+JavaScript-Developer;+React-Developer;+Tech+Enthusiast;" alt="Typing SVG" />
+
   </a>
 </div>
 
@@ -14,52 +15,52 @@
 
 <br/>
 
-## 👨‍💻 Riyazul Islam — Frontend & MERN Stack Developer
+## 👨‍💻 Riyazul Islam — Aspiring MERN Stack Developer
 
 ### 🚀 About Me
-I am **Riyazul Islam**, a tech-driven **MERN Stack Developer** and a **Computer Science Student** based in Bangladesh 🇧🇩. I thrive on the challenge of turning complex logic into high-performance, user-centric web applications.
+I am **Riyazul Islam**, a passionate **MERN Stack learner** and **Computer Science student** from Bangladesh 🇧🇩. I am dedicated to building modern, responsive, and user-centric web applications while exploring the depths of the JavaScript ecosystem.
 
-With a solid foundation in the **MERN ecosystem**, I am currently pushing my boundaries by mastering **Next.js 14** and **TypeScript** to build scalable, enterprise-grade solutions.
-
----
-
-### 🔭 What I'm Up To
-- 🏗️ **Current Project:** Engineering a feature-rich **Tourism Website** using the MERN stack.
-- 🎓 **Education:** Pursuing a **Diploma in Computer Science & Technology**, focusing on software engineering principles.
-- 🎯 **Daily Grind:** Deep diving into **Next.js** App Router, Server Actions, and Clean Architecture.
-- ⚙️ **Focus:** Practicing Full-Stack development with a focus on **Performance Optimization** and **Scalable Database Design**.
-- 🧠 **Goal:** Writing clean, maintainable code following best practices like DRY and SOLID.
+Currently, I am focused on bridging the gap between basic frontend and robust full-stack solutions, with a strong emphasis on clean code and secure authentication.
 
 ---
 
-### 💡 Core Expertise
-- **Frontend:** Crafting responsive, pixel-perfect UIs with **React.js**, **Next.js**, and **Tailwind CSS**.
-- **Backend:** Developing secure and efficient RESTful APIs using **Node.js** and **Express**.
-- **Database:** Designing and managing scalable data models in **MongoDB** and **MySQL**.
-- **UI/UX:** Bridging the gap between design and code with **Figma** and modern CSS techniques.
+### 🔭 Current Learning Path
+- 📚 **Deep Diving:** Exploring **TypeScript**, **Next.js**, and **Zod** for type-safe applications.
+- 💼 **Active Project:** Developing **PassGate** — a custom authentication app to master security flows.
+- 🎯 **Current Focus:** Implementing secure user verification using **JWT tokens** via email.
+- 🎓 **Education:** Pursuing a **Diploma in Computer Science & Technology**, learning core software principles.
+- 🚀 **Next Milestone:** Engineering a comprehensive **Travel Web Application** to implement full CRUD and booking logic.
+
+---
+
+### 💡 Core Learning Stack
+- **Frontend:** Building interactive UIs with **React.js**, **Tailwind CSS**, and transitioning to **Next.js**.
+- **Backend:** Learning to build RESTful APIs with **Node.js** and **Express**.
+- **Database:** Managing data with **MongoDB** and **Mongoose** modeling.
+- **Security:** Implementing **JWT** (JSON Web Tokens) for secure user sessions and authorization.
 
 > **⚡ Philosophy:** "First, solve the problem. Then, write the code."
 
----
 
-## 🛠️ Skills & Technologies
+<br/>
 
-### 🎨 Frontend
+🛠️ Skills & Technologies
+🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui" />
 </p>
 
-### ⚙️ Backend & Database
+⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,go,firebase,postgres,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres,prisma" />
 </p>
 
-### 🧰 Tools & Others
+🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ai,ps,vscode,netlify,vercel,pnpm,docker,gcp" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
 </p>
 
----
+<br/>
 
 ## 🌐 Connect with Me:
 
@@ -78,7 +79,7 @@ With a solid foundation in the **MERN ecosystem**, I am currently pushing my bou
   </a>
 </p>
 
----
+<br/>
 
 ## 📊 GitHub Analytics — Niczzxo
 
