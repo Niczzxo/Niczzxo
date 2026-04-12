@@ -220,3 +220,24 @@ I am **Riyazul Islam**, a dedicated Computer Science Diploma student. My passion
 <div align="center">
   <b>💻 Made By Riyazul Islam © All Rights Reserved 2026</b>
 </div>
+
+
+## 👀 **PROFILE VIEWS**
+
+<img src="https://komarev.com/ghpvc/?username=kamruj-akash&label=Profile%20Views&color=00F7F7&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+### 💬 **"First, solve the problem. Then, write the code."** – John Johnson
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### ⚡ **Thanks for visiting! Let's connect and build something extraordinary together!** 🚀
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
