@@ -104,9 +104,9 @@ With a solid foundation in the **MERN ecosystem**, I am currently pushing my bou
 
 ### 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=Niczzxo&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1ff,#4b91ff,#217aff" alt="Snake animation" />
-</p>
+> See how my GitHub contributions slither into action!
+
+<img src="https://raw.githubusercontent.com/obaidullah-miazi-dev/obaidullah-miazi-dev/output/snake.svg" alt="Snake animation" />
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
