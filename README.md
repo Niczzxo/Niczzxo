@@ -22,8 +22,6 @@
 
 <br/>
 
-//*## 👨‍💻 Riyazul Islam — Aspiring MERN Stack Developer//*
-
 ### 🚀 About Me
 I am **Riyazul Islam**, a passionate **MERN Stack learner** and **Computer Science student** from Bangladesh 🇧🇩. I am dedicated to building modern, responsive, and user-centric web applications while exploring the depths of the JavaScript ecosystem.
 
