@@ -139,9 +139,6 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-
 </div>
 
 
@@ -152,6 +149,10 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="80%" alt="Activity Graph" />
 </div>
 
+<div align="center">
+<!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  </div>
 ---
 
 ### 🕹️ Contribution Activity
