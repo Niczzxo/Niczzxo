@@ -123,7 +123,7 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 ## 📊 GitHub Analytics — Niczzxo
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-theta-bice-12.vercel.app?user=Niczzxo&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
@@ -133,11 +133,11 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 <h3 align="center">📈 Statistics Summary</h3>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
 
 </div>
 
@@ -145,7 +145,7 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="80%" alt="Activity Graph" />
+  <img src="https://github-readme-stats-theta-bice-12.vercel.app//graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="80%" alt="Activity Graph" />
 </div>
 
 <div align="center">
