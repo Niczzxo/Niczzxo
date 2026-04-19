@@ -150,9 +150,9 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 
 ---
 
-### 🐍 Contribution Activity
+### 🕹️ Contribution Activity
 
-> See how my GitHub contributions slither into action!
+> Chomp, chomp! Watch my GitHub contributions power up!
 
 <br clear="both">
 
@@ -162,7 +162,7 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/output/pacman-contribution-graph.svg">
 </picture>
 
-
+<br clear="both">
 
 ---
 
