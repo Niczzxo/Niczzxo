@@ -138,10 +138,12 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 <br/>
