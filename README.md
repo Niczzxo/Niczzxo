@@ -154,11 +154,13 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 
 > See how my GitHub contributions slither into action!
 
-<img src="https://raw.githubusercontent.com/obaidullah-miazi-dev/obaidullah-miazi-dev/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niczzxo/Niczzxo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niczzxo/Niczzxo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/output/pacman-contribution-graph.svg">
+</picture>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+###
 
 ---
 
