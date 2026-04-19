@@ -138,19 +138,9 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
+
 </div>
 
-<!--START_SECTION:waka-->
-
-```rust
-From: 19 April 2026 - To: 19 April 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 
 <br/>
@@ -159,6 +149,10 @@ No activity tracked
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="80%" alt="Activity Graph" />
 </div>
 
+<div align="center">
+<!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  </div>
 ---
 
 ### 🕹️ Contribution Activity
