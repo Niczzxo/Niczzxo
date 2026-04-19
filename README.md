@@ -123,9 +123,9 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 ## 📊 GitHub Analytics — Niczzxo
 
 <p align="center">
-  <img src="https://github-readme-stats-theta-bice-12.vercel.app?user=Niczzxo&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
+S
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
@@ -136,9 +136,11 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
   <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
+
 </div>
+
 
 <br/>
 
