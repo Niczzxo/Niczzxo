@@ -136,11 +136,9 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
   <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
   <br/>
-  <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
-  <img src="https://github-readme-stats-theta-bice-12.vercel.app//api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
 </div>
-
 
 <br/>
 
