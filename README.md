@@ -141,6 +141,8 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <br/>
@@ -149,10 +151,6 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="80%" alt="Activity Graph" />
 </div>
 
-<div align="center">
-<!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-  </div>
 ---
 
 ### 🕹️ Contribution Activity
