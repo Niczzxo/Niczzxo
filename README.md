@@ -180,7 +180,7 @@ I ship real products, not just tutorials: authentication, payments, course deliv
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 April 2026 - To: 19 October 2026
+From: 19 April 2026 - To: 20 October 2026
 
 Total Time: 9 hrs 4 mins
 
