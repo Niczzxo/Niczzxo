@@ -12,7 +12,10 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?style=for-the-badge&color=00F7F7&label=PROFILE%20VIEWS&username=Niczzxo" alt="Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Niczzxo.Niczzxo&title=PROFILE%20VIEWS&title_bg=0D1117&count_bg=00F7F7&title_color=FFFFFF&count_color=0D1117" alt="Profile Views" />
+  <a href="https://github.com/Niczzxo?tab=followers"><img src="https://img.shields.io/github/followers/Niczzxo?style=for-the-badge&color=00F7F7&labelColor=0d1117" alt="GitHub Followers" /></a>
+  <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/pulse-badge.svg" height="28" alt="Open to Work and Collaborations" />
+  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-006A4E?style=for-the-badge" alt="Dhaka, Bangladesh" />
 </div>
 
 <br/>
