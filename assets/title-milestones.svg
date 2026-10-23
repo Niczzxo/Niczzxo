@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="Milestones">
+<defs>
+<linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#6366F1"/>
+<stop offset="55%" stop-color="#A78BFA"/>
+<stop offset="100%" stop-color="#00F7F7"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="72" rx="12" fill="#0D1133"/>
+<rect x="1" y="1" width="1198" height="70" rx="11" fill="none" stroke="#26265C" stroke-width="1.5"/>
+<g>
+<animate attributeName="opacity" values="0;1" dur="0.9s" fill="freeze"/>
+<rect x="20" y="16" width="11" height="11" fill="#A78BFA" transform="rotate(45 25.5 21.5)">
+<animateTransform attributeName="transform" type="rotate" from="45 25.5 21.5" to="405 25.5 21.5" dur="10s" repeatCount="indefinite"/>
+</rect>
+<text x="46" y="34" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="600" letter-spacing="0.5" fill="#E6E9FF">Milestones</text>
+<rect x="16" y="54" width="0" height="2.5" fill="url(#tg)">
+<animate attributeName="width" values="0;1168" dur="1.4s" begin="0.15s" fill="freeze"/>
+<animate attributeName="opacity" values="1;0.75;1" dur="4.5s" repeatCount="indefinite"/>
+</rect>
+</g>
+</svg>

@@ -8,7 +8,11 @@
   <img src="https://img.shields.io/badge/Open_to-Work_%26_Collaborations-4338CA?style=for-the-badge&logoColor=E6E9FF" alt="Open to work and collaborations" />
 </p>
 
-## Introduction
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=C4B5FD&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Founder+%40+CashSkillBD;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+products+in+production" alt="Typing animation" />
+</p>
+
+<img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/title-introduction.svg" width="100%" alt="Introduction" />
 
 I am **Riyazul Islam**, a full-stack developer based in Dhaka, Bangladesh, and the founder of **[CashSkillBD](https://cashskillbd.vercel.app)** — a production learning platform I design, build, and maintain end to end.
 
@@ -22,9 +26,11 @@ My work is production software, not demos: authentication, payment verification,
 | **Open to** | Freelance projects, collaborations, and full-stack roles |
 | **Portfolio** | [riyazulislam.dev](https://www.riyazulislam.dev/) |
 
+<p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/highlights.svg" width="100%" alt="Highlights — 6+ production apps, 32 languages, 42 games, 20+ repositories" /></p>
+
 <p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
 
-## Milestones
+<img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/title-milestones.svg" width="100%" alt="Milestones" />
 
 | Milestone | Evidence |
 | :--- | :--- |
@@ -36,7 +42,7 @@ My work is production software, not demos: authentication, payment verification,
 
 <p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
 
-## Selected Work
+<img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/title-selected-work.svg" width="100%" alt="Selected Work" />
 
 | Project | What it solves | Built with | Links |
 | :--- | :--- | :--- | :--- |
@@ -97,7 +103,7 @@ My work is production software, not demos: authentication, payment verification,
 
 <p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
 
-## Statistics
+<img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/title-statistics.svg" width="100%" alt="Statistics" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&hide_border=true&bg_color=0D1133&title_color=C4B5FD&text_color=E6E9FF&icon_color=818CF8&border_color=26265C&include_all_commits=true&count_private=true" height="180em" alt="GitHub statistics" />
