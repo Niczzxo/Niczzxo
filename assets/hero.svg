@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Riyazul Islam — Full-Stack Developer">
+<defs>
+<linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#070716"/>
+<stop offset="45%" stop-color="#0D1133">
+<animate attributeName="stop-color" values="#0D1133;#141B4D;#0D1133" dur="10s" repeatCount="indefinite"/>
+</stop>
+<stop offset="78%" stop-color="#1A0A2E">
+<animate attributeName="stop-color" values="#1A0A2E;#2A1250;#1A0A2E" dur="10s" repeatCount="indefinite"/>
+</stop>
+<stop offset="100%" stop-color="#0D1133"/>
+</linearGradient>
+<radialGradient id="glow" gradientUnits="userSpaceOnUse" cx="300" cy="90" r="580">
+<stop offset="0%" stop-color="#A78BFA" stop-opacity="0.17"/>
+<stop offset="55%" stop-color="#4338CA" stop-opacity="0.10"/>
+<stop offset="100%" stop-color="#4338CA" stop-opacity="0"/>
+<animate attributeName="cx" values="260;820;260" dur="16s" repeatCount="indefinite"/>
+</radialGradient>
+<linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#4338CA"/>
+<stop offset="50%" stop-color="#A78BFA"/>
+<stop offset="100%" stop-color="#00F7F7"/>
+</linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+<path d="M 36 0 L 0 0 0 36" fill="none" stroke="#A78BFA" stroke-opacity="0.055" stroke-width="1"/>
+</pattern>
+<path id="flowPath" d="M -20 302 C 260 244, 430 342, 650 288 S 1060 208, 1230 252" fill="none"/>
+</defs>
+
+<rect width="1200" height="360" fill="url(#bgGrad)"/>
+<rect width="1200" height="360" fill="url(#grid)"/>
+<rect width="1200" height="360" fill="url(#glow)"/>
+
+<g transform="translate(992,178)" opacity="0.85">
+<circle r="128" fill="none" stroke="#A78BFA" stroke-opacity="0.30" stroke-width="1" stroke-dasharray="3 8">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="46s" repeatCount="indefinite"/>
+</circle>
+<circle r="88" fill="none" stroke="#C4B5FD" stroke-opacity="0.20" stroke-width="1" stroke-dasharray="2 6">
+<animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="32s" repeatCount="indefinite"/>
+</circle>
+<circle r="52" fill="none" stroke="#A78BFA" stroke-opacity="0.35" stroke-width="1"/>
+<circle cx="0" cy="-128" r="3.5" fill="#C4B5FD">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="46s" repeatCount="indefinite"/>
+</circle>
+<circle r="4" fill="#A78BFA"/>
+</g>
+
+<use href="#flowPath" stroke="url(#lineGrad)" stroke-width="2" stroke-dasharray="1400" stroke-dashoffset="1400" opacity="0.9">
+<animate attributeName="stroke-dashoffset" values="1400;0" dur="3.2s" fill="freeze"/>
+</use>
+<circle r="4" fill="#00F7F7" opacity="0.95">
+<animateMotion dur="7s" repeatCount="indefinite" path="M -20 302 C 260 244, 430 342, 650 288 S 1060 208, 1230 252"/>
+</circle>
+
+<g>
+<animate attributeName="opacity" values="0;1" dur="1.3s" fill="freeze"/>
+<text x="70" y="66" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="4" fill="#A78BFA">@NICZZXO — GITHUB PROFILE</text>
+<text x="68" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" letter-spacing="1" fill="#E6E9FF">Riyazul Islam</text>
+<rect x="70" y="192" width="348" height="3" fill="url(#lineGrad)">
+<animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" repeatCount="indefinite"/>
+</rect>
+<text x="70" y="234" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="4.5" fill="#C4B5FD">FULL-STACK DEVELOPER · FOUNDER, CASHSKILLBD</text>
+<text x="70" y="268" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#E6E9FF" opacity="0.88">I design, build and ship production web platforms — end to end.</text>
+<text x="70" y="322" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="3" fill="#A78BFA" opacity="0.85">REACT · TYPESCRIPT · NODE.JS · SUPABASE</text>
+</g>
+</svg>

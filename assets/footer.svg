@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Footer">
+<defs>
+<linearGradient id="fLine" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#1A0A2E"/>
+<stop offset="50%" stop-color="#A78BFA">
+<animate attributeName="stop-color" values="#A78BFA;#C4B5FD;#A78BFA" dur="5s" repeatCount="indefinite"/>
+</stop>
+<stop offset="100%" stop-color="#1A0A2E"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="110" fill="#070716"/>
+<rect x="0" y="0" width="1200" height="2" fill="url(#fLine)"/>
+<g transform="translate(600,44)">
+<rect x="-5" y="-5" width="10" height="10" fill="#A78BFA" transform="rotate(45)">
+<animateTransform attributeName="transform" type="rotate" from="45" to="405" dur="9s" repeatCount="indefinite" additive="sum"/>
+<animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+</rect>
+</g>
+<text x="600" y="76" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#E6E9FF">Crafted with care in Dhaka, Bangladesh</text>
+<text x="600" y="98" text-anchor="middle" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" letter-spacing="3.5" fill="#A78BFA">GITHUB.COM/NICZZXO</text>
+</svg>

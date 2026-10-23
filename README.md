@@ -1,125 +1,51 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/banner.svg" width="100%" alt="Riyazul Islam — Full-Stack Developer" />
+  <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/hero.svg" width="100%" alt="Riyazul Islam — Full-Stack Developer, Founder of CashSkillBD" />
 </p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full-Stack+Developer;Founder+%40+CashSkillBD;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+products+in+production" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Niczzxo&label=PROFILE%20VIEWS&color=4338CA&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-26265C?style=for-the-badge&logoColor=E6E9FF" alt="Dhaka, Bangladesh" />
+  <img src="https://img.shields.io/badge/Open_to-Work_%26_Collaborations-4338CA?style=for-the-badge&logoColor=E6E9FF" alt="Open to work and collaborations" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niczzxo&label=PROFILE%20VIEWS&color=00F7F7&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/Niczzxo?tab=followers"><img src="https://img.shields.io/github/followers/Niczzxo?style=for-the-badge&color=00F7F7&labelColor=0d1117" alt="GitHub Followers" /></a>
-  <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/pulse-badge.svg" height="28" alt="Open to Work and Collaborations" />
-  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-006A4E?style=for-the-badge" alt="Dhaka, Bangladesh" />
-</div>
+## Introduction
 
-<br/>
+I am **Riyazul Islam**, a full-stack developer based in Dhaka, Bangladesh, and the founder of **[CashSkillBD](https://cashskillbd.vercel.app)** — a production learning platform I design, build, and maintain end to end.
 
-## <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/wave.svg" width="30" alt="wave" /> About Me
-
-I'm **Riyazul Islam**, a **Full-Stack Developer** from Dhaka, Bangladesh 🇧🇩 and the founder of **[CashSkillBD](https://cashskillbd.vercel.app)** — a production learning platform I design, build, and maintain end-to-end.
-
-I ship real products, not just tutorials: authentication, payments, course delivery, admin systems, and multilingual interfaces used by real customers. My focus is clean architecture, secure flows, and interfaces that feel premium on every device.
-
-<table>
-<tr>
-<td valign="top" width="52%">
+My work is production software, not demos: authentication, payment verification, course delivery, admin systems, and interfaces in **32 languages** used by real customers. I care about clean architecture, honest engineering, and interfaces that feel considered on every device.
 
 | | |
 | :--- | :--- |
-| 🚀 **Currently building** | CashSkillBD — membership & learning platform with LMS, orders, payments, a separate admin console, and a **32-language** interface |
-| 🎬 **Also shipped** | Seedance Studio (AI video generation) · MasterPrompts (AI prompt vault) · Betvora (42-game casino UI) |
-| 🎯 **Focus** | React, TypeScript, Node.js, secure auth (JWT), REST APIs, Supabase |
-| 🎓 **Education** | Diploma in Computer Science & Technology |
-| 💼 **Open to** | Freelance projects, collaborations, and full-stack roles |
-| 🌐 **Portfolio** | [riyazulislam.dev](https://www.riyazulislam.dev/) |
-
-</td>
-<td valign="top" width="48%">
-  <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/terminal.svg" width="100%" alt="Terminal animation — whoami, stack, ship" />
-</td>
-</tr>
-</table>
-
-> ⚡ **Philosophy:** *"First, solve the problem. Then, write the code."*
+| **Currently** | Building CashSkillBD — membership & learning platform with LMS, shop, and admin console |
+| **Also shipped** | Seedance Studio · MasterPrompts · Betvora |
+| **Education** | Diploma in Computer Science & Technology |
+| **Open to** | Freelance projects, collaborations, and full-stack roles |
+| **Portfolio** | [riyazulislam.dev](https://www.riyazulislam.dev/) |
 
 <p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
 
-## 🧩 What I Build
+## Milestones
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Production Web Platforms</h3>
-      <p>Full-stack applications with auth, role-based access, dashboards, and content delivery — built to run a real business, not just a demo.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 E-Commerce & Payments</h3>
-      <p>Shops, checkout flows, manual &amp; gateway payment verification (bKash, Nagad, cards, crypto), order management, and delivery workflows.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI-Powered Tools</h3>
-      <p>Products built on AI APIs — video generation studios, prompt libraries, and workflow tools with real provider integrations.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Admin Panels & Dashboards</h3>
-      <p>Operational consoles with analytics, team roles, CMS-style site settings, and moderation queues — responsive down to phone screens.</p>
-    </td>
-  </tr>
-</table>
+| Milestone | Evidence |
+| :--- | :--- |
+| Founded and operate a production learning platform with paying customers | [CashSkillBD](https://cashskillbd.vercel.app) |
+| Shipped a full membership system — LMS, orders, manual payment verification, team-role admin | [Live platform](https://cashskillbd.vercel.app) |
+| Delivered one interface in 32 languages, including RTL for Arabic, Persian & Hebrew | [CashSkillBD](https://cashskillbd.vercel.app) |
+| Built an AI video-generation studio on multiple model providers | [Seedance Studio](https://seedance-studio-rho.vercel.app) |
+| Built a 42-game casino lobby UI with an admin server console | [Betvora](https://github.com/Niczzxo/Betvora-client) |
 
 <p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
 
-## 🚀 Featured Projects
+## Selected Work
 
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">What it is</th>
-    <th align="left">Built with</th>
-    <th align="left">Links</th>
-  </tr>
-  <tr>
-    <td><b>CashSkillBD</b></td>
-    <td>Membership &amp; learning platform — courses with video LMS, shop, seminar registration, manual payment verification, and a full admin console. Interface in <b>32 languages</b> with RTL support.</td>
-    <td>React · Vite · Supabase · Vercel</td>
-    <td><a href="https://cashskillbd.vercel.app">🌐 Live</a></td>
-  </tr>
-  <tr>
-    <td><b>Seedance Studio</b></td>
-    <td>AI video generation studio with multiple model providers, prompt workflows, and per-generation credit handling.</td>
-    <td>TypeScript · React · AI APIs</td>
-    <td><a href="https://seedance-studio-rho.vercel.app">🌐 Live</a> · <a href="https://github.com/Niczzxo/Seedance-studio">💻 Code</a></td>
-  </tr>
-  <tr>
-    <td><b>MasterPrompts</b></td>
-    <td>Premium AI video-prompt vault — collections, saved prompts, and step-by-step workflow phases with one-click copy.</td>
-    <td>TypeScript · React · Supabase</td>
-    <td><a href="https://mastersprompt.vercel.app">🌐 Live</a> · <a href="https://github.com/Niczzxo/MastersPrompt">💻 Code</a></td>
-  </tr>
-  <tr>
-    <td><b>Betvora</b></td>
-    <td>42-game casino lobby UI — live-style game tiles, wallet demo, leaderboard, promotions, and a full admin server console. <i>Front-end demo, play money.</i></td>
-    <td>HTML · CSS · JavaScript</td>
-    <td><a href="https://github.com/Niczzxo/Betvora-client">💻 Code</a></td>
-  </tr>
-  <tr>
-    <td><b>RedPulse</b></td>
-    <td>Blood donation platform connecting donors with people in need — secure auth and real-time connectivity.</td>
-    <td>React · Node.js · Express</td>
-    <td><a href="https://github.com/Niczzxo/RedPulse-client">💻 Code</a></td>
-  </tr>
-  <tr>
-    <td><b>Portfolio</b></td>
-    <td>My personal portfolio — projects, skills, and contact, with a live backend API.</td>
-    <td>React · Express · Supabase</td>
-    <td><a href="https://www.riyazulislam.dev/">🌐 Live</a></td>
-  </tr>
-</table>
+| Project | What it solves | Built with | Links |
+| :--- | :--- | :--- | :--- |
+| **CashSkillBD** | A complete business platform — courses with video LMS, shop, seminar registration, and verified manual payments (bKash, Nagad, cards, crypto) | React · Vite · Supabase · Vercel | [Live](https://cashskillbd.vercel.app) |
+| **Seedance Studio** | AI video generation with several model providers behind one studio interface | TypeScript · React · AI APIs | [Live](https://seedance-studio-rho.vercel.app) · [Code](https://github.com/Niczzxo/Seedance-studio) |
+| **MasterPrompts** | A premium vault for AI video prompts — collections, saved prompts, step-by-step workflow phases | TypeScript · React · Supabase | [Live](https://mastersprompt.vercel.app) · [Code](https://github.com/Niczzxo/MastersPrompt) |
+| **Betvora** | A 42-game casino lobby with wallet demo, leaderboard, promotions and an admin console *(front-end demo, play money)* | HTML · CSS · JavaScript | [Code](https://github.com/Niczzxo/Betvora-client) |
+| **RedPulse** | Connects blood donors with people in need, with secure auth and real-time updates | React · Node.js · Express | [Code](https://github.com/Niczzxo/RedPulse-client) |
+| **Portfolio** | Personal portfolio with a live backend API | React · Express · Supabase | [Live](https://www.riyazulislam.dev/) |
 
 <p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
 
@@ -151,32 +77,39 @@ I ship real products, not just tutorials: authentication, payments, course deliv
 
 <p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
 
-## 📊 GitHub Analytics
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&bg_color=0D1133&color=C4B5FD&line=6366F1&point=00F7F7&area=true&hide_border=true" width="92%" alt="Contribution activity graph" />
+</p>
+
+### 🕹️ Contribution Activity
+
+> Chomp, chomp! Watch my GitHub contributions power up!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niczzxo/Niczzxo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niczzxo/Niczzxo/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph, generated from my real GitHub contributions" src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center"><sub>The Pac-Man graph above is generated automatically from my actual contribution history.</sub></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
+
+## Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&hide_border=true&bg_color=0D1133&title_color=C4B5FD&text_color=E6E9FF&icon_color=818CF8&border_color=26265C&include_all_commits=true&count_private=true" height="180em" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&hide_border=true&bg_color=0D1133&title_color=C4B5FD&text_color=E6E9FF&border_color=26265C" height="180em" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&background=0D1133&border=26265C&stroke=26265C&ring=A78BFA&fire=C4B5FD&currStreakNum=E6E9FF&sideNums=E6E9FF&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B8FC7&hide_border=true" alt="Contribution streak" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niczzxo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niczzxo&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<h3 align="center">📈 Statistics Summary</h3>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niczzxo&theme=transparent" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niczzxo&theme=transparent" height="180em" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niczzxo&theme=transparent" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niczzxo&theme=transparent" height="180em" />
-</div>
-
-<div align="center">
 <!--START_SECTION:waka-->
 
 ```rust
@@ -192,28 +125,8 @@ Other        15 mins               ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
 </div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="80%" alt="Activity Graph" />
-</div>
-
-<p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
-
-### 🕹️ Contribution Activity
-
-> Chomp, chomp! Watch my GitHub contributions power up!
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niczzxo/Niczzxo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niczzxo/Niczzxo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/output/pacman-contribution-graph.svg">
-</picture>
-
-<br clear="both">
 
 <p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
 
@@ -230,17 +143,6 @@ Other        15 mins               ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <p align="center"><i>Have a project in mind? My inbox is open — I usually reply within a day.</i></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
-
-### 🧠 Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/footer.svg" width="100%" alt="Crafted with care in Dhaka, Bangladesh" />
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-  <br/>
-  <b>💻 Crafted with ☕ by Riyazul Islam</b>
-</div>
