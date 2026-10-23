@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niczzxo&label=PROFILE%20VIEWS&color=00F7F7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?style=for-the-badge&color=00F7F7&label=PROFILE%20VIEWS&username=Niczzxo" alt="Profile Views" />
   <a href="https://github.com/Niczzxo?tab=followers"><img src="https://img.shields.io/github/followers/Niczzxo?style=for-the-badge&color=00F7F7&labelColor=0d1117" alt="GitHub Followers" /></a>
   <img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/pulse-badge.svg" height="28" alt="Open to Work and Collaborations" />
   <img src="https://img.shields.io/badge/Dhaka-Bangladesh-006A4E?style=for-the-badge" alt="Dhaka, Bangladesh" />
@@ -196,7 +196,7 @@ Other        15 mins               ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="80%" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=Niczzxo&theme=react-dark&hide_border=true&area=true" width="80%" alt="Activity Graph" />
 </div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Niczzxo/Niczzxo/main/assets/divider.svg" width="100%" alt="" /></p>
