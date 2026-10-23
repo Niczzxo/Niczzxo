@@ -1,16 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 14">
 <defs>
 <linearGradient id="dg" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#1A0A2E"/>
-<stop offset="50%" stop-color="#A78BFA">
-<animate attributeName="stop-color" values="#A78BFA;#C4B5FD;#A78BFA" dur="6s" repeatCount="indefinite"/>
-</stop>
-<stop offset="100%" stop-color="#1A0A2E"/>
+<stop offset="0%" stop-color="#00F7F7"><animate attributeName="stop-color" values="#00F7F7;#a371f7;#ff7eb6;#00F7F7" dur="6s" repeatCount="indefinite"/></stop>
+<stop offset="50%" stop-color="#a371f7"><animate attributeName="stop-color" values="#a371f7;#ff7eb6;#00F7F7;#a371f7" dur="6s" repeatCount="indefinite"/></stop>
+<stop offset="100%" stop-color="#ff7eb6"><animate attributeName="stop-color" values="#ff7eb6;#00F7F7;#a371f7;#ff7eb6" dur="6s" repeatCount="indefinite"/></stop>
 </linearGradient>
 </defs>
-<rect x="0" y="6" width="900" height="2" rx="1" fill="url(#dg)" opacity="0.9"/>
-<circle cy="7" r="3.5" fill="#C4B5FD">
-<animate attributeName="cx" values="4;896;4" dur="8s" repeatCount="indefinite"/>
-<animate attributeName="opacity" values="1;0.55;1" dur="1.6s" repeatCount="indefinite"/>
+<rect x="0" y="6" width="900" height="2" rx="1" fill="url(#dg)" opacity="0.85"/>
+<circle cy="7" r="4" fill="#00F7F7">
+<animate attributeName="cx" values="4;896;4" dur="7s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;0.55;1" dur="1.4s" repeatCount="indefinite"/>
 </circle>
 </svg>
