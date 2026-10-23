@@ -52,50 +52,50 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 
 <!-- Tech Stack Section -->
 
-# 🛠️ Tech Stack
+<h1 align="center">🛠️ Tech Stack</h1>
 
-## 🌐 Frontend Development
+<h2 align="center">🌐 Frontend Development</h2>
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) | ![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) | |
-
-
-## 🔧 Backend Development
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) | ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| ![NextAuth.js](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white) | | | |
+<table align="center">
+<tr><td align="center">![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</td><td align="center">![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</td><td align="center">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</td><td align="center">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</td></tr>
+<tr><td align="center">![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</td><td align="center">![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</td><td align="center">![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)</td><td align="center">![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)</td></tr>
+<tr><td align="center">![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)</td><td align="center">![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)</td><td align="center">![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)</td><td></td></tr>
+</table>
 
 
-## 🗄️ Databases
+<h2 align="center">🔧 Backend Development</h2>
 
-| | |
-|:---:|:---:|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) |
-
-
-
-## 🛠️ Tools & Platforms
+<table align="center">
+<tr><td align="center">![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</td><td align="center">![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)</td><td align="center">![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)</td><td align="center">![Firebase Authentication](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)</td></tr>
+<tr><td align="center">![NextAuth.js](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)</td><td></td><td></td><td></td></tr>
+</table>
 
 
-| | | |
-|:---:|:---:|:---:|
-| ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Thunder Client](https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white) |
+<h2 align="center">🗄️ Databases</h2>
 
-
-## 🚀 Deployment & Hosting
+<table align="center">
+<tr><td align="center">![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</td><td align="center">![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)</td></tr>
+</table>
 
 
 
-| | | |
-|:---:|:---:|:---:|
-| ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) |
+<h2 align="center">🛠️ Tools & Platforms</h2>
+
+
+<table align="center">
+<tr><td align="center">![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)</td><td align="center">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</td><td align="center">![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</td></tr>
+<tr><td align="center">![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)</td><td align="center">![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)</td><td align="center">![Thunder Client](https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white)</td></tr>
+</table>
+
+
+<h2 align="center">🚀 Deployment & Hosting</h2>
+
+
+
+<table align="center">
+<tr><td align="center">![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)</td><td align="center">![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)</td><td align="center">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)</td></tr>
+<tr><td align="center">![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)</td></tr>
+</table>
 
 
 
@@ -104,9 +104,9 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 
 <br/>
 
-## 🌐 Connect with Me:
+<h2 align="center">🌐 Connect with Me:</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/md-riyazul-islam-rafsan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> &nbsp;
