@@ -54,6 +54,12 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 
 <h1 align="center">🛠️ Tech Stack</h1>
 
+<h2 align="center">💻 Programming Languages</h2>
+
+<table align="center">
+<tr><td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td><td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td><td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></td><td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td></tr>
+</table>
+
 <h2 align="center">🌐 Frontend Development</h2>
 
 <table align="center">
