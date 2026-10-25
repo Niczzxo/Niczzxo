@@ -56,52 +56,73 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 
 <h2 align="center">💻 Programming Languages</h2>
 
-<table align="center">
-<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" /><br /><sub>HTML5</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" /><br /><sub>CSS3</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /><br /><sub>JavaScript</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" /><br /><sub>TypeScript</sub></td></tr>
-</table>
+<p align="center">
+  <img width="48" height="48" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" title="CSS3" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" title="TypeScript" />
+</p>
 
 <h2 align="center">🌐 Frontend Development</h2>
 
-<table align="center">
-<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" /><br /><sub>HTML5</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" /><br /><sub>CSS3</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /><br /><sub>JavaScript</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" /><br /><sub>TypeScript</sub></td></tr>
-<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" /><br /><sub>React</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next JS" /><br /><sub>Next JS</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/mui/007FFF" alt="Material UI" /><br /><sub>Material UI</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS" /><br /><sub>Tailwind CSS</sub></td></tr>
-<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/bootstrap/563D7C" alt="Bootstrap" /><br /><sub>Bootstrap</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/daisyui/5A0EF8" alt="DaisyUI" /><br /><sub>DaisyUI</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/shadcnui/000000" alt="ShadCN" /><br /><sub>ShadCN</sub></td><td></td></tr>
-</table>
+<p align="center">
+  <img width="48" height="48" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" title="CSS3" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" title="TypeScript" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" /><img width="48" height="48" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next JS" title="Next JS" /></picture>
+  <img width="48" height="48" src="https://cdn.simpleicons.org/mui/007FFF" alt="Material UI" title="Material UI" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/bootstrap/563D7C" alt="Bootstrap" title="Bootstrap" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/daisyui/5A0EF8" alt="DaisyUI" title="DaisyUI" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/FFFFFF" /><img width="48" height="48" src="https://cdn.simpleicons.org/shadcnui/000000" alt="ShadCN" title="ShadCN" /></picture>
+</p>
 
 
 <h2 align="center">🔧 Backend Development</h2>
 
-<table align="center">
-<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" /><br /><sub>Node.js</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/express/000000" alt="Express.js" /><br /><sub>Express.js</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" /><br /><sub>JWT</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase Authentication" /><br /><sub>Firebase Authentication</sub></td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js" /></td><td></td><td></td><td></td></tr>
-</table>
+<p align="center">
+  <img width="48" height="48" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF" /><img width="48" height="48" src="https://cdn.simpleicons.org/express/000000" alt="Express.js" title="Express.js" /></picture>
+  <img width="48" height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" title="JWT" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase Authentication" title="Firebase Authentication" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"
+</p>
 
 
 <h2 align="center">🗄️ Databases</h2>
 
-<table align="center">
-<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/mongodb/4EA94B" alt="MongoDB" /><br /><sub>MongoDB</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/mongoose/880000" alt="Mongoose" /><br /><sub>Mongoose</sub></td></tr>
-</table>
+<p align="center">
+  <img width="48" height="48" src="https://cdn.simpleicons.org/mongodb/4EA94B" alt="MongoDB" title="MongoDB" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/mongoose/880000" alt="Mongoose" title="Mongoose" />
+</p>
 
 
 
 <h2 align="center">🛠️ Tools & Platforms</h2>
 
 
-<table align="center">
-<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/git/F05033" alt="Git" /><br /><sub>Git</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" /><br /><sub>GitHub</sub></td><td align="center"><img width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" /><br /><sub>VS Code</sub></td></tr>
-<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" /><br /><sub>Postman</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" /><br /><sub>Figma</sub></td><td align="center"><img src="https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client" /></td></tr>
-</table>
+<p align="center">
+  <img width="48" height="48" src="https://cdn.simpleicons.org/git/F05033" alt="Git" title="Git" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><img width="48" height="48" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" /></picture>
+  <img width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code"
+  <img width="48" height="48" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" title="Figma" />
+  <img src="https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client"
+</p>
 
 
 <h2 align="center">🚀 Deployment & Hosting</h2>
 
 
 
-<table align="center">
-<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" /><br /><sub>Vercel</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" /><br /><sub>Netlify</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" /><br /><sub>Firebase</sub></td></tr>
-<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/githubpages/222222" alt="GitHub Pages" /><br /><sub>GitHub Pages</sub></td></tr>
-</table>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF" /><img width="48" height="48" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" title="Vercel" /></picture>
+  <img width="48" height="48" src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" title="Netlify" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubpages/FFFFFF" /><img width="48" height="48" src="https://cdn.simpleicons.org/githubpages/222222" alt="GitHub Pages" title="GitHub Pages" /></picture>
+</p>
 
 
 
