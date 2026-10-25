@@ -57,22 +57,22 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 <h2 align="center">💻 Programming Languages</h2>
 
 <table align="center">
-<tr><td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td><td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td><td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></td><td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td></tr>
+<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" /><br /><sub>HTML5</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" /><br /><sub>CSS3</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /><br /><sub>JavaScript</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" /><br /><sub>TypeScript</sub></td></tr>
 </table>
 
 <h2 align="center">🌐 Frontend Development</h2>
 
 <table align="center">
-<tr><td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td><td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td><td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></td><td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></td><td align="center"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" /></td><td align="center"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" /></td><td align="center"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></td><td align="center"><img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" /></td><td align="center"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadCN" /></td><td></td></tr>
+<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" /><br /><sub>HTML5</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" /><br /><sub>CSS3</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /><br /><sub>JavaScript</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" /><br /><sub>TypeScript</sub></td></tr>
+<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" /><br /><sub>React</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next JS" /><br /><sub>Next JS</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/mui/007FFF" alt="Material UI" /><br /><sub>Material UI</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS" /><br /><sub>Tailwind CSS</sub></td></tr>
+<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/bootstrap/563D7C" alt="Bootstrap" /><br /><sub>Bootstrap</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/daisyui/5A0EF8" alt="DaisyUI" /><br /><sub>DaisyUI</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/shadcnui/000000" alt="ShadCN" /><br /><sub>ShadCN</sub></td><td></td></tr>
 </table>
 
 
 <h2 align="center">🔧 Backend Development</h2>
 
 <table align="center">
-<tr><td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></td><td align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></td><td align="center"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" /></td><td align="center"><img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Authentication" /></td></tr>
+<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" /><br /><sub>Node.js</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/express/000000" alt="Express.js" /><br /><sub>Express.js</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" /><br /><sub>JWT</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase Authentication" /><br /><sub>Firebase Authentication</sub></td></tr>
 <tr><td align="center"><img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js" /></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -80,7 +80,7 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 <h2 align="center">🗄️ Databases</h2>
 
 <table align="center">
-<tr><td align="center"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></td><td align="center"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" /></td></tr>
+<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/mongodb/4EA94B" alt="MongoDB" /><br /><sub>MongoDB</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/mongoose/880000" alt="Mongoose" /><br /><sub>Mongoose</sub></td></tr>
 </table>
 
 
@@ -89,8 +89,8 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 
 
 <table align="center">
-<tr><td align="center"><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td><td align="center"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td><td align="center"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" /></td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" /></td><td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></td><td align="center"><img src="https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client" /></td></tr>
+<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/git/F05033" alt="Git" /><br /><sub>Git</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" /><br /><sub>GitHub</sub></td><td align="center"><img width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" /><br /><sub>VS Code</sub></td></tr>
+<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" /><br /><sub>Postman</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" /><br /><sub>Figma</sub></td><td align="center"><img src="https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client" /></td></tr>
 </table>
 
 
@@ -99,8 +99,8 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 
 
 <table align="center">
-<tr><td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></td><td align="center"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /></td><td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" /></td></tr>
+<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" /><br /><sub>Vercel</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" /><br /><sub>Netlify</sub></td><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" /><br /><sub>Firebase</sub></td></tr>
+<tr><td align="center"><img width="46" height="46" src="https://cdn.simpleicons.org/githubpages/222222" alt="GitHub Pages" /><br /><sub>GitHub Pages</sub></td></tr>
 </table>
 
 
