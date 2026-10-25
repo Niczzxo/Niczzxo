@@ -87,7 +87,7 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF" /><img width="48" height="48" src="https://cdn.simpleicons.org/express/000000" alt="Express.js" title="Express.js" /></picture>
   <img width="48" height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" title="JWT" />
   <img width="48" height="48" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase Authentication" title="Firebase Authentication" />
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js" />
 </p>
 
 
@@ -106,10 +106,10 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 <p align="center">
   <img width="48" height="48" src="https://cdn.simpleicons.org/git/F05033" alt="Git" title="Git" />
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><img width="48" height="48" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" /></picture>
-  <img width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code"
+  <img width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" />
   <img width="48" height="48" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" />
   <img width="48" height="48" src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" title="Figma" />
-  <img src="https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client"
+  <img src="https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client" />
 </p>
 
 
