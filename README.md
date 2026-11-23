@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MERN-Stack-Developer;+Full-Stack-Developer;Frontend-Developer;+JavaScript-Developer;+React-Developer;+Tech+Enthusiast;" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MERN+Stack+Developer;+Full-Stack+Developer;+AI+Developer;+Apps+Developer;+UI%2FUX+Designer;" alt="Typing SVG" />
 
   </a>
 </div>
@@ -20,29 +20,30 @@
 
 <br/>
 
-## 👨‍💻 Riyazul Islam — Aspiring MERN Stack Developer
+## 👨‍💻 Riyazul Islam, MERN Stack and Full-Stack Developer
 
 ### 🚀 About Me
-I am **Riyazul Islam**, a passionate **MERN Stack learner** and **Computer Science student** from Bangladesh 🇧🇩. I am dedicated to building modern, responsive, and user-centric web applications while exploring the depths of the JavaScript ecosystem.
+I am **Riyazul Islam**, a **MERN Stack and Full-Stack Developer, AI Developer, Apps Developer, and UI/UX Designer** from Dhaka, Bangladesh 🇧🇩, with **3+ years of experience** and **30+ completed projects**. I build scalable, high-performance web applications, Android apps and AI-powered products, bridging aesthetics and functionality so every product is visually compelling, user-centric and ready for real-world demands.
 
-Currently, I am focused on bridging the gap between basic frontend and robust full-stack solutions, with a strong emphasis on clean code and secure authentication.
-
----
-
-### 🔭 Current Learning Path
-- 📚 **Deep Diving:** Exploring **TypeScript**, **Next.js**, and **Zod** for type-safe applications.
-- 💼 **Active Project:** Developing **PassGate** — a custom authentication app to master security flows.
-- 🎯 **Current Focus:** Implementing secure user verification using **JWT tokens** via email.
-- 🎓 **Education:** Pursuing a **Diploma in Computer Science & Technology**, learning core software principles.
-- 🚀 **Next Milestone:** Engineering a comprehensive **Travel Web Application** to implement full CRUD and booking logic.
+Currently, I work as a **Full-Stack Developer (MERN)** on freelance projects for clients, and I am pursuing a **Diploma in Computer Science and Technology** at **Dhaka Polytechnic Institute** (2023 to Present).
 
 ---
 
-### 💡 Core Learning Stack
-- **Frontend:** Building interactive UIs with **React.js**, **Tailwind CSS**, and transitioning to **Next.js**.
-- **Backend:** Learning to build RESTful APIs with **Node.js** and **Express**.
-- **Database:** Managing data with **MongoDB** and **Mongoose** modeling.
-- **Security:** Implementing **JWT** (JSON Web Tokens) for secure user sessions and authorization.
+### 🔭 What I Am Doing Now
+- 💼 **Current Role:** **Full-Stack Developer (MERN)**, Freelance, since January 2023.
+- 🚀 **Latest Launch:** **CashSkill Decoder**, an AI-powered tool for USA survey work, live at cashskilldecoder.tech.
+- 📱 **Android Apps:** **Aello Music** and **EditGo**, built with **Kotlin** and **Jetpack Compose**.
+- 🎓 **Education:** **Diploma in Computer Science and Technology**, Dhaka Polytechnic Institute, 2023 to Present.
+- 🎯 **Current Focus:** AI integration with **Gemini AI** and **Mistral AI**, and premium UI/UX with smooth motion.
+
+---
+
+### 💡 Core Stack
+- **Frontend:** Interactive, animated UIs with **React.js**, **Next.js**, **TypeScript** and **Tailwind CSS**.
+- **Backend:** Secure REST APIs with **Node.js**, **Express** and **JWT** authentication.
+- **Database and Cloud:** **MongoDB**, **PostgreSQL**, **Supabase**, **Firebase** and **Redis**.
+- **Mobile:** Native Android apps with **Kotlin** and **Jetpack Compose**.
+- **AI:** **Gemini AI** and **Mistral AI** integration, with prompt engineering.
 
 > **⚡ Philosophy:** "First, solve the problem. Then, write the code."
 
@@ -57,54 +58,55 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
 <h2 align="center">💻 Programming Languages</h2>
 
 <p align="center">
-  <img width="50" height="50" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" title="CSS3" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" title="TypeScript" />
+  <img width="50" height="50" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" title="TypeScript" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go Lang" title="Go Lang" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/rust/DEA584" alt="Rust" title="Rust" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" title="Kotlin" />
 </p>
 
 <h2 align="center">🌐 Frontend Development</h2>
 
 <p align="center">
-  <img width="50" height="50" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" title="CSS3" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" title="TypeScript" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" /> &nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" /><img width="50" height="50" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next JS" title="Next JS" /></picture>
+  <img width="50" height="50" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" title="CSS3" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" /> &nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" /><img width="50" height="50" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next JS" title="Next JS" /></picture> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux" title="Redux" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 <p align="center">
-  <img width="50" height="50" src="https://cdn.simpleicons.org/mui/007FFF" alt="Material UI" title="Material UI" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/bootstrap/563D7C" alt="Bootstrap" title="Bootstrap" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/daisyui/5A0EF8" alt="DaisyUI" title="DaisyUI" /> &nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/FFFFFF" /><img width="50" height="50" src="https://cdn.simpleicons.org/shadcnui/000000" alt="ShadCN" title="ShadCN" /></picture>
+  <img width="50" height="50" src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" title="Framer Motion" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/gsap/88CE02" alt="GSAP" title="GSAP" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" title="Angular" />
 </p>
-
 
 <h2 align="center">🔧 Backend Development</h2>
 
 <p align="center">
-  <img width="50" height="50" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" /> &nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF" /><img width="50" height="50" src="https://cdn.simpleicons.org/express/000000" alt="Express.js" title="Express.js" /></picture> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" title="JWT" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase Authentication" title="Firebase Authentication" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js" />
+  <img width="50" height="50" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" /> &nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF" /><img width="50" height="50" src="https://cdn.simpleicons.org/express/000000" alt="Express.js" title="Express.js" /></picture> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/django/44B78B" alt="Django" title="Django" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" title="JWT" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/prisma/5A67D8" alt="Prisma" title="Prisma" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" />
 </p>
 
-
-<h2 align="center">🗄️ Databases</h2>
+<h2 align="center">🗄️ Databases and Cloud</h2>
 
 <p align="center">
-  <img width="50" height="50" src="https://cdn.simpleicons.org/mongodb/4EA94B" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/mongoose/880000" alt="Mongoose" title="Mongoose" />
+  <img width="50" height="50" src="https://cdn.simpleicons.org/mongodb/4EA94B" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" title="Supabase" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" title="Redis" />
 </p>
 
-
-
-<h2 align="center">🛠️ Tools & Platforms</h2>
-
+<h2 align="center">🤖 AI Development</h2>
 
 <p align="center">
-  <img width="50" height="50" src="https://cdn.simpleicons.org/git/F05033" alt="Git" title="Git" /> &nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><img width="50" height="50" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" /></picture> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" title="Figma" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Thunder_Client-FF6C37?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client" />
+  <img width="50" height="50" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini AI" title="Gemini AI" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/mistralai/FF7000" alt="Mistral AI" title="Mistral AI" />
 </p>
 
-
-<h2 align="center">🚀 Deployment & Hosting</h2>
-
-
+<h2 align="center">📱 Mobile Development</h2>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF" /><img width="50" height="50" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" title="Vercel" /></picture> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" title="Netlify" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" /> &nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubpages/FFFFFF" /><img width="50" height="50" src="https://cdn.simpleicons.org/githubpages/222222" alt="GitHub Pages" title="GitHub Pages" /></picture>
+  <img width="50" height="50" src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" title="Kotlin" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" title="Android" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/jetpackcompose/4285F4" alt="Jetpack Compose" title="Jetpack Compose" />
 </p>
 
+<h2 align="center">🎨 Design and Tools</h2>
 
+<p align="center">
+  <img width="50" height="50" src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" title="Figma" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/git/F05033" alt="Git" title="Git" /> &nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><img width="50" height="50" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" /></picture> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" />
+</p>
+
+<h2 align="center">🚀 Deployment and Hosting</h2>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF" /><img width="50" height="50" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" title="Vercel" /></picture> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" title="Netlify" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" title="Google Cloud" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/digitalocean/0080FF" alt="DigitalOcean" title="DigitalOcean" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" title="Vite" /> &nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" title="NPM" />
+</p>
 
 ---
-
 
 <br/>
 
@@ -114,20 +116,26 @@ Currently, I am focused on bridging the gap between basic frontend and robust fu
   <a href="https://linkedin.com/in/md-riyazul-islam-rafsan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> &nbsp;
-  <a href="https://facebook.com/Royazul.Islam.Rasfas/" target="_blank">
+  <a href="https://facebook.com/Riyazul.Islam.Rafsan" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a> &nbsp;
   <a href="https://discord.com/users/Niczzxo" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a> &nbsp;
-  <a href="mailto:riyazulislam.773@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://instagram.com/Niczzxo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a> &nbsp;
+  <a href="mailto:hello@riyazulislam.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a> &nbsp;
+  <a href="https://www.riyazulislam.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics — Niczzxo
+## 📊 GitHub Analytics: Niczzxo
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Niczzxo&theme=dark&hide_border=true" alt="GitHub Streak" />
@@ -156,9 +164,9 @@ From: 19 April 2026 - To: 30 October 2026
 
 Total Time: 9 hrs 4 mins
 
-JavaScript   4 hrs 24 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.24 %
-Bash         1 hr 11 mins          ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.69 %
-Markdown     41 mins               ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.48 %
+JavaScript   4 hrs 24 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.24 %
+Bash         1 hr 11 mins          ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.69 %
+Markdown     41 mins               ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.48 %
 HTML         17 mins               ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.07 %
 Other        15 mins               ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.84 %
 ```
